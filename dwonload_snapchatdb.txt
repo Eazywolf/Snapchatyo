@@ -1,3 +1,7 @@
 IMPORTANT!!!
 Download schat.csv from https://www.dropbox.com/s/cf0i7nko3l70jw4/schat.csv and save it as "snapchatdb.csv" in the folder
 you got the snapchatfiles in.
+
++DOWNLOAD AND INSTALL PYSNAP FROM https://github.com/martinp/pysnap
+
+Have fun
